@@ -12,6 +12,15 @@ using gitlab cd/cd @work
 
 making it work for a small sample repo
 
+### 30/12/2020
+
+**Notes**
+
+`git`: push a branch to remote that does not exist there yet:
+```sh
+git push -u origin <branch-name>
+```
+
 
 ### 27/12/2020
 
