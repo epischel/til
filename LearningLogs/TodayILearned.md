@@ -2,6 +2,17 @@
 
 ##### (Add the date, notes, progress made, and any resources used each day)
 
+### 31/12/2020
+
+**Notes**
+
+using gitlab cd/cd @work
+
+**Progess**
+
+making it work for a small sample repo
+
+
 ### 27/12/2020
 
 **Notes**
