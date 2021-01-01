@@ -2,13 +2,29 @@
 
 ##### (Add the date, notes, progress made, and any resources used each day)
 
-#### Example
-
-## 01/01/2021
+### 27/12/2020
 
 **Notes**
 
-I learned the basic structure of an html page.
+using github "dependabot" as "beta" and directly on github
+
+**Progess**
+
+introduced to some repos
+
+**Link to Code**
+
+[dependabot in synk-v-test](https://github.com/epischel/synk-v-test/blob/master/.github/dependabot.yml)
+
+**Resources Used**
+
+github docs
+
+### 26/12/2020
+
+**Notes**
+
+create a github action for a gradle project. using to "publish" to github pages.
 
 **Progess**
 
@@ -16,11 +32,11 @@ I started building a basic webpage on CodePen
 
 **Link to Code**
 
-[My HTML example page on CodePen](https://codepen.io/pen)
+[Github Action YML file](https://github.com/epischel/gensources/blob/main/.github/workflows/publish.yml)
 
 **Resources Used**
 
-[HTML Structure Info](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)
+github docs
 
 ---
 
