@@ -2,6 +2,19 @@
 
 ##### (Add the date, notes, progress made, and any resources used each day)
 
+### 01/01/2021 Which Tests Should We Automate?
+
+4 criterias made up by 2 factors a,b each, with a,b \in 1..5, a * b = score for criteria
+
+1. Risk = Impact (if broken, what's the impact) x Probability (frequency of use by customer)
+2. Value = Case for Action (how quickly would this failure be fixed?) x Distinctness (does this test provide new info?)
+3. COST-EFFECIENCY = Ease (how easy will it be to script this) x quickness (how quick can this be scripted)
+4. History = Frequency of breaks (volume of historical failures for this test) x Similiar to weak areas (volume of historical failures in related areas)
+
+sum of score: 75-100 automate, 25-74 possible automate, 0-24 don't automate
+
+https://www.youtube.com/watch?v=VL-_pnICmGY https://slides.com/angiejones/which-tests-should-we-automate
+
 ### 31/12/2020
 
 **Notes**
