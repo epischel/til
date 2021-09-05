@@ -2,6 +2,22 @@
 
 ##### (Add the date, notes, progress made, and any resources used each day)
 
+### 05/019/2021 install different versions of Java on linux and use update-alternatives
+
+"install" by downloading jdks and then adding
+
+`sudo update-alternatives /usr/bin/java java /usr/lib/jvm/jdk11/bin/java`
+
+and dito for `jar` and `javac`
+
+`sudo update-alternatives --show java`
+
+change java version
+`sudo update-alternatives --config java`
+
+[see](https://dev.to/thegroo/install-and-manage-multiple-java-versions-on-linux-using-alternatives-5e93)
+
+
 ### 01/01/2021 Which Tests Should We Automate?
 
 4 criterias made up by 2 factors a,b each, with a,b \in 1..5, a * b = score for criteria
